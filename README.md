@@ -85,7 +85,22 @@
 |82|find second largest elements| [secondmax.py] (https://github.com/vaishnavipasale/vaishu.python/blob/main/secondmax.py) | [geeks for geeks]
 |83|shuffle a list randomly| [randomlist.py] (https://github.com/vaishnavipasale/vaishu.python/blob/main/randomlist.py) | [geeks for geeks]
 |84|find the common items in both dict| [commonelements.py] (https://github.com/vaishnavipasale/vaishu.python/blob/main/commonelements.py) | [geeks for geeks]
-
+|85|create a list of unique item from a list with duplicates| [listduplicate.py] (https://github.com/vaishnavipasale/vaishu.python/blob/main/listduplicate.py) | [geeks for geeks]
+|86|sort list of string by their length | [stringlength.py] (https://github.com/vaishnavipasale/vaishu.python/blob/main/stringlength.py) | [geeks for geeks]
+|87|find the index of the first occurance of specfic item in list | [listfirstoccu.py] (https://github.com/vaishnavipasale/vaishu.python/blob/main/listfirstoccu.py) | [geeks for geeks]
+|88|merage two dict and handle duplicate keys by concatenating values into lists | [listfirstoccu.py] (https://github.com/vaishnavipasale/vaishu.python/blob/main/listfirstoccu.py) | [geeks for geeks]
+|89|check if a list is a subsetof another list| [subsetlist.py] (https://github.com/vaishnavipasale/vaishu.python/blob/main/subsetlist.py) | [geeks for geeks]
+|90|find mode in a list| [subsetlist.py] (https://github.com/vaishnavipasale/vaishu.python/blob/main/subsetlist.py) | [geeks for geeks]
+|91|split a string into list of words| [splitlist.py] (https://github.com/vaishnavipasale/vaishu.python/blob/main/splitlist.py) | [geeks for geeks]
+|92|Check if two dictionaries have the same keys and values| [splitlist.py] (https://github.com/vaishnavipasale/vaishu.python/blob/main/splitlist.py) | [geeks for geeks]
+|93|Create a list of unique elements from a list of lists.| [uniquelist.py] (https://github.com/vaishnavipasale/vaishu.python/blob/main/uniquelist.py) | [geeks for geeks]
+|94|Find the first non-repeated character in a string.| [nonrepeated.py] (https://github.com/vaishnavipasale/vaishu.python/blob/main/nonrepeated.py) | [geeks for geeks]
+|95|.Check if a list is empty..| [listempty.py] (https://github.com/vaishnavipasale/vaishu.python/blob/main/listempty.py) | [geeks for geeks]
+|96|.Remove all whitespace of string.| [whitespacestring.py] (https://github.com/vaishnavipasale/vaishu.python/blob/main/whitespacestring.py) | [geeks for geeks]
+|97|Remove all punctuation of string.| [punctionstr.py] (https://github.com/vaishnavipasale/vaishu.python/blob/main/punctionstr.py) | [geeks for geeks]
+|98| list  tuples dict.| [convertdicttotuple.py] (https://github.com/vaishnavipasale/vaishu.python/blob/main/covertdicttotuple.py) | [geeks for geeks]
+|99|Check if a dictionary is empty| [emptydict.py] (https://github.com/vaishnavipasale/vaishu.python/blob/main/emptydict.py) | [geeks for geeks]
+|100|average of values in a dict| [averagedict.py] (https://github.com/vaishnavipasale/vaishu.python/blob/main/averagedict.py) | [geeks for geeks]
 
 
 
