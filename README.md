@@ -90,7 +90,7 @@
 |87|find the index of the first occurance of specfic item in list | [listfirstoccu.py] (https://github.com/vaishnavipasale/vaishu.python/blob/main/listfirstoccu.py) | [geeks for geeks]
 |88|merage two dict and handle duplicate keys by concatenating values into lists | [listfirstoccu.py] (https://github.com/vaishnavipasale/vaishu.python/blob/main/listfirstoccu.py) | [geeks for geeks]
 |89|check if a list is a subsetof another list| [subsetlist.py] (https://github.com/vaishnavipasale/vaishu.python/blob/main/subsetlist.py) | [geeks for geeks]
-|90|find mode in a list| [subsetlist.py] (https://github.com/vaishnavipasale/vaishu.python/blob/main/subsetlist.py) | [geeks for geeks]
+|90|find mode in a list| [listmode.py] (https://github.com/vaishnavipasale/vaishu.python/blob/main/listmode.py) | [geeks for geeks]
 |91|split a string into list of words| [splitlist.py] (https://github.com/vaishnavipasale/vaishu.python/blob/main/splitlist.py) | [geeks for geeks]
 |92|Check if two dictionaries have the same keys and values| [splitlist.py] (https://github.com/vaishnavipasale/vaishu.python/blob/main/splitlist.py) | [geeks for geeks]
 |93|Create a list of unique elements from a list of lists.| [uniquelist.py] (https://github.com/vaishnavipasale/vaishu.python/blob/main/uniquelist.py) | [geeks for geeks]
