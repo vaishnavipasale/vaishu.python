@@ -68,7 +68,7 @@
 |65|if list sorted in ascending order | [listascending.py] (https://github.com/vaishnavipasale/vaishu.python/blob/main/listascending.py) | [geeks for geeks]
 |66|create tuple student name and score| [tuplestude.py] (https://github.com/vaishnavipasale/vaishu.python/blob/main/tuplestude.py) | [geeks for geeks]
 |67|create of dict word and freq | [dictfrequecy.py] (https://github.com/vaishnavipasale/vaishu.python/blob/main/dictfrequecy.py) | [geeks for geeks]
-|68|merage two dict | [dictmerage.py] (https://github.com/vaishnavipasale/vaishu.python/blob/main/dictfrequecy.py) | [geeks for geeks]
+|68|merage two dict | [dictmerage.py] (https://github.com/vaishnavipasale/vaishu.python/edit/main/dictmerage.py) | [geeks for geeks]
 |69|keys with max value dict | [highestvaluedict.py] (https://github.com/vaishnavipasale/vaishu.python/blob/main/highestvaluedict.py) | [geeks for geeks]
 |70|sort a list of dict  | [sortlistdict.py] (https://github.com/vaishnavipasale/vaishu.python/blob/main/sortlistdict.py) | [geeks for geeks]
 |71| list of string into one string | [stringlist.py] (https://github.com/vaishnavipasale/vaishu.python/blob/main/stringlist.py) | [geeks for geeks]
