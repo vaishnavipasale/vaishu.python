@@ -54,6 +54,20 @@
 |51|find the intersection of two sets| [intersectionset.py] (https://github.com/vaishnavipasale/vaishu.python/blob/main/unionsets.py) | [geeks for geeks] 
 |52|check if a set is subset | [subset.py] (https://github.com/vaishnavipasale/vaishu.python/blob/main/subset.py) | [geeks for geeks] 
 |53| frequency of elements in list | [frequencylist.py] (https://github.com/vaishnavipasale/vaishu.python/blob/main/frequencylist.py) | [geeks for geeks] 
+|54| remove item in set | [removeset.py] (https://github.com/vaishnavipasale/vaishu.python/blob/main/removelist.py) | [geeks for geeks] 
+|55| find max value in a dict | [maxdict.py] (https://github.com/vaishnavipasale/vaishu.python/blob/main/maxdict.py) | [geeks for geeks] 
+|56|simple address book dict. | [dictaddress.py] (https://github.com/vaishnavipasale/vaishu.python/blob/main/dictaddress.py) | [geeks for geeks] 
+|57|average value of item in list of set. | [averagelist.py] (https://github.com/vaishnavipasale/vaishu.python/blob/main/averagelist.py) | [geeks for geeks] 
+|58|find the length string. | [stringlen.py] (https://github.com/vaishnavipasale/vaishu.python/blob/main/stringlen.py) | [geeks for geeks] 
+|59| print no. of vowels and consonants. | [vowelsandc.py] (https://github.com/vaishnavipasale/vaishu.python/blob/main/vowelsandc.py) | [geeks for geeks] 
+|60|check string is palidrome | [stringpalindrome.py] (https://github.com/vaishnavipasale/vaishu.python/blob/main/stringpalidrome.py) | [geeks for geeks] 
+|61|largest word in sentence | [longestword.py] (https://github.com/vaishnavipasale/vaishu.python/blob/main/longestword.py) | [geeks for geeks] 
+|62|reverse the order of words in a sen. | [.py] (https://github.com/vaishnavipasale/vaishu.python/blob/main/longestword.py) | [geeks for geeks] 
+
+
+
+
+
 
 
 
