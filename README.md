@@ -62,7 +62,36 @@
 |59| print no. of vowels and consonants. | [vowelsandc.py] (https://github.com/vaishnavipasale/vaishu.python/blob/main/vowelsandc.py) | [geeks for geeks] 
 |60|check string is palidrome | [stringpalindrome.py] (https://github.com/vaishnavipasale/vaishu.python/blob/main/stringpalidrome.py) | [geeks for geeks] 
 |61|largest word in sentence | [longestword.py] (https://github.com/vaishnavipasale/vaishu.python/blob/main/longestword.py) | [geeks for geeks] 
-|62|reverse the order of words in a sen. | [.py] (https://github.com/vaishnavipasale/vaishu.python/blob/main/longestword.py) | [geeks for geeks] 
+|62|reverse the order of words  | [reverseword.py] (https://github.com/vaishnavipasale/vaishu.python/blob/main/reverseword.py) | [geeks for geeks] 
+|63| intersection of two list | [listintersection.py] (https://github.com/vaishnavipasale/vaishu.python/blob/main/listintersection.py) | [geeks for geeks] 
+|64| merage two sorted list | [listsort.py] (https://github.com/vaishnavipasale/vaishu.python/blob/main/listsort.py) | [geeks for geeks] 
+|65|if list sorted in ascending order | [listascending.py] (https://github.com/vaishnavipasale/vaishu.python/blob/main/listascending.py) | [geeks for geeks]
+|66|create tuple student name and score| [tuplestude.py] (https://github.com/vaishnavipasale/vaishu.python/blob/main/tuplestude.py) | [geeks for geeks]
+|67|create of dict word and freq | [dictfrequecy.py] (https://github.com/vaishnavipasale/vaishu.python/blob/main/dictfrequecy.py) | [geeks for geeks]
+|68|merage two dict | [dictmerage.py] (https://github.com/vaishnavipasale/vaishu.python/blob/main/dictfrequecy.py) | [geeks for geeks]
+|69|keys with max value dict | [highestvaluedict.py] (https://github.com/vaishnavipasale/vaishu.python/blob/main/highestvaluedict.py) | [geeks for geeks]
+|70|sort a list of dict  | [sortlistdict.py] (https://github.com/vaishnavipasale/vaishu.python/blob/main/sortlistdict.py) | [geeks for geeks]
+|71| list of string into one string | [stringlist.py] (https://github.com/vaishnavipasale/vaishu.python/blob/main/stringlist.py) | [geeks for geeks]
+|72| if check two sets have any common item| [commoneleset.py] (https://github.com/vaishnavipasale/vaishu.python/blob/main/commoneleset.py) | [geeks for geeks]
+|73| find difference between two sets| [differset.py] (https://github.com/vaishnavipasale/vaishu.python/blob/main/differset.py) | [geeks for geeks]
+|74| converts list of int. into set & max and min value| [listintmax.py] (https://github.com/vaishnavipasale/vaishu.python/blob/main/listintmax.py) | [geeks for geeks]
+|75| check if a given key exits in dict| [exitsdict.py] (https://github.com/vaishnavipasale/vaishu.python/blob/main/existsdict.py) | [geeks for geeks]
+|76| remove a key value pair from dict| [removekey.py] (https://github.com/vaishnavipasale/vaishu.python/blob/main/removekey.py) | [geeks for geeks]
+|77|combine 2 dict, preserving the original key| [combinedict.py] (https://github.com/vaishnavipasale/vaishu.python/blob/main/commoneleset.py) | [geeks for geeks]
+|78|find length of longest word in a list| [longestword.py] (https://github.com/vaishnavipasale/vaishu.python/blob/main/longestword.py) | [geeks for geeks]
+|79|count occurance of each word in a list| [countlist.py] (https://github.com/vaishnavipasale/vaishu.python/blob/main/countlist.py) | [geeks for geeks]
+|80|check if two lists are equal | [listsequal.py] (https://github.com/vaishnavipasale/vaishu.python/blob/main/listsequal.py) | [geeks for geeks]
+|81|remove all occurance of a specfic item from a list| [removelist.py] (https://github.com/vaishnavipasale/vaishu.python/blob/main/removelist.py) | [geeks for geeks]
+|82|find second largest elements| [secondmax.py] (https://github.com/vaishnavipasale/vaishu.python/blob/main/secondmax.py) | [geeks for geeks]
+|83|shuffle a list randomly| [randomlist.py] (https://github.com/vaishnavipasale/vaishu.python/blob/main/randomlist.py) | [geeks for geeks]
+|84|find the common items in both dict| [commonelements.py] (https://github.com/vaishnavipasale/vaishu.python/blob/main/commonelements.py) | [geeks for geeks]
+
+
+
+
+
+
+
 
 
 
