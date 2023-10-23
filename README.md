@@ -47,7 +47,7 @@
 |44|perform matrix multiplication| [matrixmulti.py] (https://github.com/vaishnavipasale/vaishu.python/blob/main/matrixmulti.py) | [geeks for geeks] 
 |45|find sum of diagonal item matrix| [diagonalmatrix.py] (https://github.com/vaishnavipasale/vaishu.python/blob/main/diagonalmatrix.py) | [geeks for geeks] 
 |46|print matrix add and sub| [matrixaddandsub.py] (https://github.com/vaishnavipasale/vaishu.python/blob/main/matrixaddandsub.py) | [geeks for geeks] 
-|47|extract submatrix from matrix| [extractmatrix.py] (https://github.com/vaishnavipasale/vaishu.python/blob/main/matrixaddandsub.py) | [geeks for geeks] 
+|47|extract submatrix from matrix| [extractmatrix.py] (https://github.com/vaishnavipasale/vaishu.python/blob/main/extractmatrix.py) | [geeks for geeks] 
 |48|find determinant of matrix| [matrixdeter.py] (https://github.com/vaishnavipasale/vaishu.python/blob/main/matrixdeter.py) | [geeks for geeks] 
 |49|check two matrixs equal or not| [matrixequal.py] (https://github.com/vaishnavipasale/vaishu.python/blob/main/matrixequal.py) | [geeks for geeks] 
 |50|find the union of two sets| [unionsets.py] (https://github.com/vaishnavipasale/vaishu.python/blob/main/unionsets.py) | [geeks for geeks] 
