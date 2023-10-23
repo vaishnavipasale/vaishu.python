@@ -37,6 +37,37 @@
 | 34|print the prime factors of no | [factors.py] (https://github.com/vaishnavipasale/vaishu.python/blob/main/factors.py) | [geeks for geeks] 
 |35|area of triangle using heron's formula| [herons.py] (https://github.com/vaishnavipasale/vaishu.python/blob/main/herons.py) | [geeks for geeks] 
 |36|check leap year or not| [leapyear.py] (https://github.com/vaishnavipasale/vaishu.python/blob/main/leapyear.py) | [geeks for geeks] 
+|37|calculate the compound interest| [interst.py] (https://github.com/vaishnavipasale/vaishu.python/blob/main/interst.py) | [geeks for geeks] 
+|38|find the GCD of two numbers.| [gcd.py] (https://github.com/vaishnavipasale/vaishu.python/blob/main/gcd.py) | [geeks for geeks] 
+|39|calculate the area of 3D shape.| [volume.py] (https://github.com/vaishnavipasale/vaishu.python/blob/main/volume.py) | [geeks for geeks] 
+|40|check no. is perfect or not.| [perfect.py] (https://github.com/vaishnavipasale/vaishu.python/blob/main/perfect.py) | [geeks for geeks] 
+|41|calculate the nth term .| [arithmaticp.py] (https://github.com/vaishnavipasale/vaishu.python/blob/main/arithmaticp.py) | [geeks for geeks] 
+|42|find area of circle segment| [circlesegement.py] (https://github.com/vaishnavipasale/vaishu.python/blob/main/circlesegement.py) | [geeks for geeks] 
+|43|printmatrix and its transpose| [matrixtrapose.py] (https://github.com/vaishnavipasale/vaishu.python/blob/main/matrixtrapose.py) | [geeks for geeks] 
+|44|perform matrix multiplication| [matrixmulti.py] (https://github.com/vaishnavipasale/vaishu.python/blob/main/matrixmulti.py) | [geeks for geeks] 
+|45|find sum of diagonal item matrix| [diagonalmatrix.py] (https://github.com/vaishnavipasale/vaishu.python/blob/main/diagonalmatrix.py) | [geeks for geeks] 
+|46|print matrix add and sub| [matrixaddandsub.py] (https://github.com/vaishnavipasale/vaishu.python/blob/main/matrixaddandsub.py) | [geeks for geeks] 
+|47|extract submatrix from matrix| [extractmatrix.py] (https://github.com/vaishnavipasale/vaishu.python/blob/main/matrixaddandsub.py) | [geeks for geeks] 
+|48|find determinant of matrix| [matrixdeter.py] (https://github.com/vaishnavipasale/vaishu.python/blob/main/matrixdeter.py) | [geeks for geeks] 
+|49|check two matrixs equal or not| [matrixequal.py] (https://github.com/vaishnavipasale/vaishu.python/blob/main/matrixequal.py) | [geeks for geeks] 
+|50|find the union of two sets| [unionsets.py] (https://github.com/vaishnavipasale/vaishu.python/blob/main/unionsets.py) | [geeks for geeks] 
+|51|find the intersection of two sets| [intersectionset.py] (https://github.com/vaishnavipasale/vaishu.python/blob/main/unionsets.py) | [geeks for geeks] 
+|52|check if a set is subset | [subset.py] (https://github.com/vaishnavipasale/vaishu.python/blob/main/subset.py) | [geeks for geeks] 
+|53| frequency of elements in list | [frequencylist.py] (https://github.com/vaishnavipasale/vaishu.python/blob/main/frequencylist.py) | [geeks for geeks] 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
