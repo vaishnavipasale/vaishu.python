@@ -16,4 +16,8 @@
 | 13 |print largest number using nested if else | [greatest.py] (https://github.com/vaishnavipasale/vaishu.python/blob/main/greatest.py) | [geeks for geeks] (geeks for geeks find the  largest number)
 | 14 |print N number of  natural no. using loop | [number.py] (https://github.com/vaishnavipasale/vaishu.python/blob/main/number.py) | [geeks for geeks] (geeks for geeks print N  number of natural no)
 | 15 |print N  number of  even  no. using loop | [neven.py] (https://github.com/vaishnavipasale/vaishu.python/blob/main/neven.py) | [geeks for geeks] (geeks for geeks print N  number of even no)
-
+| 16 |To check number is palidrome or not| [palindrome.py] (https://github.com/vaishnavipasale/vaishu.python/blob/main/palindrome.py) | [geeks for geeks] (geeks for geeks check number is palindrome or not)
+| 17 |print sum of 1 to N  even number| [.py] (https://github.com/vaishnavipasale/vaishu.python/blob/main/palindrome.py) | [geeks for geeks] (geeks for geeks check number is palindrome or not)
+| 18 |print fibonacci series| [fibonacci.py] (https://github.com/vaishnavipasale/vaishu.python/blob/main/fibonacci.py) | [geeks for geeks] (geeks for geeks print fibonacci series)
+| 19 |print LCM and GCD of two numbers| [fibonacci.py] (https://github.com/vaishnavipasale/vaishu.python/blob/main/fibonacci.py) | [geeks for geeks] (geeks for geeks print fibonacci series)
+| 19 |print LCM and GCD of two numbers| [fibonacci.py] (https://github.com/vaishnavipasale/vaishu.python/blob/main/fibonacci.py) | [geeks for geeks] (geeks for geeks print fibonacci series)
