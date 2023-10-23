@@ -51,7 +51,7 @@
 |48|find determinant of matrix| [matrixdeter.py] (https://github.com/vaishnavipasale/vaishu.python/blob/main/matrixdeter.py) | [geeks for geeks] 
 |49|check two matrixs equal or not| [matrixequal.py] (https://github.com/vaishnavipasale/vaishu.python/blob/main/matrixequal.py) | [geeks for geeks] 
 |50|find the union of two sets| [unionsets.py] (https://github.com/vaishnavipasale/vaishu.python/blob/main/unionsets.py) | [geeks for geeks] 
-|51|find the intersection of two sets| [intersectionset.py] (https://github.com/vaishnavipasale/vaishu.python/blob/main/unionsets.py) | [geeks for geeks] 
+|51|find intersection two sets| [intersectionset.py] (https://github.com/vaishnavipasale/vaishu.python/blob/main/intersectionset.py) | [geeks for geeks] 
 |52|check if a set is subset | [subset.py] (https://github.com/vaishnavipasale/vaishu.python/blob/main/subset.py) | [geeks for geeks] 
 |53| frequency of elements in list | [frequencylist.py] (https://github.com/vaishnavipasale/vaishu.python/blob/main/frequencylist.py) | [geeks for geeks] 
 |54| remove item in set | [removeset.py] (https://github.com/vaishnavipasale/vaishu.python/blob/main/removelist.py) | [geeks for geeks] 
