@@ -10,3 +10,10 @@
 | 7 | print area of reactangle .| [areareactangle.py] (https://github.com/vaishnavipasale/vaishu.python/blob/main/areareactangle.py) |[geeks for geeks] (geeksforgeeks find area of reactangle)
 | 8 | print area of perimeter of circle .| [circle.py] (https://github.com/vaishnavipasale/vaishu.python/blob/main/circle.py) |[geeks for geeks] (geeksforgeeks find perimeter of circle program)
 | 9 | print greatest no. .| [greatest.py] (https://github.com/vaishnavipasale/vaishu.python/blob/main/greatest.py) |[geeks for geeks] (geeksforgeeks find greatest no program)
+| 10 |check no. is positive or negative or zero | [positive.py] (https://github.com/vaishnavipasale/vaishu.python/blob/main/positive.py) | [geeks for geeks] (geeks for geeks check number is positive or negative or zero)
+| 11 |check no. is prime or not  | [prime.py] (https://github.com/vaishnavipasale/vaishu.python/blob/main/prime.py) | [geeks for geeks] (geeks for geeks check number is prime or not)
+| 12 |print factorial of a number  | [fact.py] (https://github.com/vaishnavipasale/vaishu.python/blob/main/fact.py) | [geeks for geeks] (geeks for geeks find the factorial of number)
+| 13 |print largest number using nested if else | [greatest.py] (https://github.com/vaishnavipasale/vaishu.python/blob/main/greatest.py) | [geeks for geeks] (geeks for geeks find the  largest number)
+| 14 |print N number of  natural no. using loop | [number.py] (https://github.com/vaishnavipasale/vaishu.python/blob/main/number.py) | [geeks for geeks] (geeks for geeks print N  number of natural no)
+| 15 |print N  number of  even  no. using loop | [neven.py] (https://github.com/vaishnavipasale/vaishu.python/blob/main/neven.py) | [geeks for geeks] (geeks for geeks print N  number of even no)
+
