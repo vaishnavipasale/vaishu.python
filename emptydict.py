@@ -1,7 +1,6 @@
-dict = {}
- 
 
-print(f"The original dictionary : {dict} ")
+dict = {}
+ print(f"The original dictionary : {dict} ")
  
 res = not bool(dict)
  
